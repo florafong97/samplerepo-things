@@ -2,3 +2,5 @@ fruits:
 apples
 berries
 cherries
+oranges
+grapes
