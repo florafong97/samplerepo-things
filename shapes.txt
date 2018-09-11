@@ -3,5 +3,3 @@ oval
 rectangle
 square
 heart
-oval
-
